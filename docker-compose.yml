@@ -3,4 +3,4 @@ services:
   web:
     image:  nginx
     ports:
-      - "2080:80"
+      - "80:80"
